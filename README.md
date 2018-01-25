@@ -24,3 +24,6 @@ window.functionName=this.functionName;
         }
 
 就ok了
+
+## 改变路径  router/index.js
+路径设置： mode: 'history'
