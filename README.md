@@ -27,3 +27,6 @@ window.functionName=this.functionName;
 
 ## 改变路径  router/index.js
 路径设置： mode: 'history'
+
+## better-scroll
+https://ustbhuangyi.github.io/better-scroll/doc/
